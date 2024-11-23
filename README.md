@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋 I'm Reni, a Junior majoring in Computer Science at UMD. I'm interested in Data Science and specialize in analyzing large datasets, building machine learning models, and creating visualizations that tell compelling stories. I love experimenting with new Data Science tools and ML models and love collaborating with people to build creative projects. Feel free to check out my GitHub repos and projects!
 
-<!--
-**Nexus4757/Nexus4757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Interests :
+- **Data Science & Analytics** : Exploratory Data Analysis (EDA), Visualizations (Dashboards),  
+- **Cloud Infrastructure** : AWS, GCP
+- **ML & LLMs** : Recommendation Systems, Prediction Models, OpenAI, LLaMa
+- **Big Data & Distributed Systems**: Spark SQL, Hadoop, Databricks
+🔭 Currently working with:
+- **NOAA Research**: Visualizing precipitation data across the U.S. to validate and evaluate ML prediction models.  
+- **SIRJ Lab, UMD**: Analyzing and visualizing stormwater data collected from IoT sensors over 3+ years, hosted on GCP.  
+💬 I like to:
+- Go on nature walks and hikes
+- Explore local restaurants and cafes 
+📫 How to reach me:
+- Email : renikaza@umd.edu
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀
