@@ -5,12 +5,18 @@ Hi there 👋 I'm Reni, a Junior majoring in Computer Science at UMD. I'm intere
 - **Cloud Infrastructure** : AWS, GCP
 - **ML & LLMs** : Recommendation Systems, Prediction Models, OpenAI, LLaMa
 - **Big Data & Distributed Systems**: Spark SQL, Hadoop, Databricks
+
+
 🔭 Currently working with:
 - **NOAA Research**: Visualizing precipitation data across the U.S. to validate and evaluate ML prediction models.  
 - **SIRJ Lab, UMD**: Analyzing and visualizing stormwater data collected from IoT sensors over 3+ years, hosted on GCP.  
+
+
 💬 I like to:
 - Go on nature walks and hikes
 - Explore local restaurants and cafes 
+
+
 📫 How to reach me:
 - Email : renikaza@umd.edu
 
