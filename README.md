@@ -18,6 +18,6 @@ Hi there 👋 I'm Reni, a Junior majoring in Computer Science at UMD. I'm intere
 
 
 📫 How to reach me:
-- Email : renikaza@umd.edu
+- Email : renikaza@terpmail.umd.edu
 
 Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀
