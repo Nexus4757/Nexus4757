@@ -4,11 +4,11 @@ Before this, I worked with NOAA to visualize precipitation data and evaluate ML 
 
 👩‍💻 Interests
 
-**Backend and data systems** — pipelines, distributed processing, infra
+**Software Engineering** — Developing server-side architectures, API design, and automated testing
 
-**Data science** — analytics, metrics, experiments, model evaluation
+**ML & LLMs** — Experience with foundation models (OpenAI, TinyLlama), recommender systems, and predictive modeling
 
-**ML & LLMs** — OpenAI, TinyLlama, recommendation and prediction systems
+**Data science** — Statistical analysis, A/B testing, experiment design, and model performance evaluation
 
 **Cloud infrastructure** — AWS, GCP, Databricks
 
@@ -26,7 +26,7 @@ Long walks with music or a podcast
 
 Trying new cafes or food places with friends
 
-Making visualizations for fun
+Exploring new technologies, particularly in the LLM space
 
 📫 Reach me at:
 
